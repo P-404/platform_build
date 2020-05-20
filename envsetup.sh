@@ -1634,4 +1634,4 @@ fi
 
 export ANDROID_BUILD_TOP=$(gettop)
 
-. vendor/404/build/envsetup.sh
+. $ANDROID_BUILD_TOP/vendor/404/build/envsetup.sh
